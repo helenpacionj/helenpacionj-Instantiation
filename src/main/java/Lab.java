@@ -20,6 +20,7 @@ public class Lab {
     public Object instantiateANewObject(){
         // return null;
         Error strerrObj = new Error();
+        
         return strerrObj;  
     }
 }
